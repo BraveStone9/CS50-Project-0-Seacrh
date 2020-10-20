@@ -9,9 +9,9 @@ Screenshots of the three pages of this project: <br>
   1. Google HomePage:<br>
   <img src="Screenshots/ss1.JPG">
   2. Google Image Seacrh:<br>
-  <img src="Screenshots/ss1.JPG">
+  <img src="Screenshots/ss2.JPG">
   3. Google Advance Search:<br>
-  <img src="Screenshots/ss1.JPG">  
+  <img src="Screenshots/ss3.JPG">  
 </p>
 
 
