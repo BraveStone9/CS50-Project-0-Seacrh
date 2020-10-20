@@ -6,7 +6,7 @@ All the required things for this project are listed [here](https://cs50.harvard.
 Screenshots of the three pages of this project: <br>
 
 1. Google homepage<br>
-[](https://github.com/BraveStone9/CS50-Project-0-Seacrh/blob/ScreenShots/Screenshots/ss1.JPG)
+![ss1](/../<Screenshots>/image.png?raw=true "Homepage")
 
 
 
