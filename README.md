@@ -6,7 +6,7 @@ All the required things for this project are listed [here](https://cs50.harvard.
 Screenshots of the three pages of this project: <br>
 
 1. Google homepage<br>
-![ss1](/../<Screenshots>/image.png?raw=true "Homepage")
+![ss1](/../Screenshots/image.png?raw=true "Homepage")
 
 
 
