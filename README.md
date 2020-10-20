@@ -7,7 +7,11 @@ Screenshots of the three pages of this project: <br>
 
 <p align="left">
   1. Google HomePage:<br>
-  <img src="Screenshots/ss1.JPG" width="50%">
+  <img src="Screenshots/ss1.JPG">
+  2. Google Image Seacrh:<br>
+  <img src="Screenshots/ss1.JPG">
+  3. Google Advance Search:<br>
+  <img src="Screenshots/ss1.JPG">  
 </p>
 
 
