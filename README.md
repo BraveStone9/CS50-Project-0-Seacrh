@@ -5,8 +5,10 @@ All the required things for this project are listed [here](https://cs50.harvard.
 
 Screenshots of the three pages of this project: <br>
 
-1. Google homepage<br>
-![ss1](/../Screenshots/image.png?raw=true "Homepage")
+<p align="left">
+  1. Google HomePage:<br>
+  <img src="Screenshots/ss1.JPG" width="50%">
+</p>
 
 
 
